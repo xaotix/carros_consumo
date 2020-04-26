@@ -15,6 +15,7 @@ tela indicando a média de consumo do veículo e o
 nível de consumo conforme lista abaixo (Km/l).
 
 Indicação de Consumo de Veículos
+
 A Mais de 12 Km/l
 
 B Até 12 Km/l
