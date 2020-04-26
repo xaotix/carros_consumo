@@ -16,7 +16,11 @@ nível de consumo conforme lista abaixo (Km/l).
 
 Indicação de Consumo de Veículos
 A Mais de 12 Km/l
+
 B Até 12 Km/l
+
 C Até 10 Km/l
+
 D Até 8 Km/l
+
 E Até 4 Km/l
