@@ -5,7 +5,11 @@ Trabalho G1 Tópicos Especiais em Computação
 
 Daniel Lins Maciel, matrícula: 1119297
 
+Clique na imagem abaixo para ver o vídeo:
+
 [![Consumo Médio de Gasolina](http://img.youtube.com/vi/VGvDaX8bDSg/0.jpg)](https://www.youtube.com/watch?v=VGvDaX8bDSg "VGvDaX8bDSg")
+
+https://www.youtube.com/watch?v=VGvDaX8bDSg
 
 Objetivo:
 
