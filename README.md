@@ -1,10 +1,5 @@
 # carros_consumo
-Trabalho G1 Tópicos Especiais em Computação
-
-<h2><b>Consumo Médio de Gasolina</h2></b>
-
-Daniel Lins Maciel, matrícula: 1119297
-
+Simples app em react native que gera um gráfico 
 Clique na imagem abaixo para ver o vídeo:
 
 [![Consumo Médio de Gasolina](http://img.youtube.com/vi/VGvDaX8bDSg/0.jpg)](https://www.youtube.com/watch?v=VGvDaX8bDSg "VGvDaX8bDSg")
